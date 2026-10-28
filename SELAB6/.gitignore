@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.coverage
+powershell.cmd
+Lab 6/powershell.cmd
